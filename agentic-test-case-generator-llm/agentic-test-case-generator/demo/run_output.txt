@@ -1,0 +1,9 @@
+Generated 28 final cases for Feature A: User Login
+First review: PASS
+Missing cases added: 0
+Final review: PASS
+Generated 34 final cases for Feature B: Apply Promo Code
+First review: PASS
+Missing cases added: 0
+Final review: PASS
+Coverage report written to output/coverage_gap_report.md

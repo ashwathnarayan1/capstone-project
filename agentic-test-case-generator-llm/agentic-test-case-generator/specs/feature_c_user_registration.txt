@@ -1,0 +1,11 @@
+Feature Spec C - User Registration
+
+User story:As a new user, I want to register using my email and password
+so that I can create an account.
+
+Acceptance criteria:
+AC1 - Valid registration.Given a new user, when valid details are submitted,then an account is created.
+AC2 - Duplicate email.When an already registered email is submitted,then "Email already registered" is shown.
+AC3 - Empty fields.When a required field is blank,inline validation is shown and no request is sent.
+AC4 - Password length.The password must contain between 8 and 64 characters.
+AC5 - Email format.An invalid email format shows"Enter a valid email address."
