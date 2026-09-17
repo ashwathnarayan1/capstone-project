@@ -1,0 +1,14 @@
+{
+  "covered": [
+    "AC1",
+    "AC2",
+    "AC3",
+    "AC4",
+    "AC5"
+  ],
+  "partially_covered": [],
+  "missing": [],
+  "category_gaps": [],
+  "recommended_test_cases": [],
+  "status": "PASS"
+}

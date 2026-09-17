@@ -1,0 +1,9 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "input_spec": "specs/feature_c_user_registration.txt",
+  "draft_count": 10,
+  "first_review": "PASS",
+  "cases_added": 0,
+  "final_count": 10,
+  "final_review": "PASS"
+}
